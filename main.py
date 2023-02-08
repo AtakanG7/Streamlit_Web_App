@@ -11,40 +11,9 @@ st.markdown("""
 
 <style>
 
-
-@keyframes negative-reaction {
-  0% {
-    transform: scale(1);
-    background-color: red;
-  }
-  100% {
-    transform: scale(1.2);
-    background-color: darkred;
-  }
-}
-
-@keyframes positive-reaction {
-  0% {
-    transform: scale(1);
-    background-color: green;
-  }
-  100% {
-    transform: scale(1.2);
-    background-color: lightgreen;
-  }
-}
-
-@keyframes neutral-reaction {
-  0% {
-    transform: scale(1);
-    background-color: gray;
-  }
-  100% {
-    transform: scale(1.2);
-    background-color: lightgray;
-  }}
-
-
+.block-container.css-12oz5g7.egzxvld2 {
+    box-sizing: unset;
+} 
 
     .css-k3w14i
     {
@@ -81,7 +50,7 @@ st.markdown("""
     
     .css-1avcm0n
     {
-       background-color: rgba(4, 45, 160, 0.897);
+       background-color: rgba(190, 37, 37, 0.068);
     }
     
     
@@ -101,7 +70,7 @@ st.markdown("""
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     :hover.header0{
-        color: rgb(172, 172, 172);
+        color: rgb(101, 101, 101);
         
     
     }
@@ -118,7 +87,7 @@ st.markdown("""
     margin-top: -100px;
     color: rgb(255, 255, 255);
     border: 20px;
-    transition: background 1s, color 1s;
+    transition: background 0.1s, color 1s;
     border-radius: 10px;
     }
     
@@ -149,7 +118,7 @@ st.markdown("""
     }
     .css-ffhzg2 
     {
-    background:  #dbdbdbf7;
+    background:  #ff0000f7;
        
     }
     .css-10trblm.e16nr0p30
@@ -173,7 +142,7 @@ st.markdown("""
     }
     .css-1v0mbdj{
         margin-left:50px;
-        transition: all 3s;
+        transition: all 0.1s;
     }
     .p,.ol,.ul,.dl{
         font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -181,6 +150,10 @@ st.markdown("""
         font-weight: bold;
         
     }
+    .css-ffhzg2{
+        background-color: #239bb970;
+    }
+
     
     </style>
     
