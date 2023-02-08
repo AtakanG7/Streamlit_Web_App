@@ -11,25 +11,21 @@ st.markdown("""
 
 <style>
 
-.block-container.css-12oz5g7.egzxvld2 {
+    .block-container.css-12oz5g7.egzxvld2 {
     box-sizing: unset;
-} 
+    } 
 
     .css-k3w14i
     {
-        display: flex;
-        margin-left: 400px;
-        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    margin-left: 400px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
     
     .block-container.css-12oz5g7.egzxvld2
     {
-       
-        box-sizing:unset;
+    box-sizing:unset;
     }
-    
-    
-    
     
     .css-k3w14i.effi0qh3
     {
@@ -42,11 +38,6 @@ st.markdown("""
     {
     margin-left:0px;
     }
-    
-    
-    
-    
-  
     
     .css-1avcm0n
     {
@@ -71,13 +62,7 @@ st.markdown("""
     }
     :hover.header0{
         color: rgb(101, 101, 101);
-        
-    
     }
-    
-    
-    
-   
     
     .a0{
     
@@ -116,11 +101,12 @@ st.markdown("""
     {
         width: 1000;
     }
+
     .css-ffhzg2 
     {
-    background:  #ff0000f7;
-       
+    background-color:  #ff0000f7;
     }
+
     .css-10trblm.e16nr0p30
     {
     margin-top: 30px;
@@ -128,10 +114,12 @@ st.markdown("""
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color : rgb(241, 94, 94)
     }
+
     .css-k3w14i.effi0qh3
     {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
+
     .block-container.css-91z34k.egzxvld4{
      box-sizing:unset;
     }
@@ -140,22 +128,22 @@ st.markdown("""
     {
     margin-left: 400px;
     }
+
     .css-1v0mbdj{
         margin-left:50px;
         transition: all 0.1s;
     }
+
     .p,.ol,.ul,.dl{
         font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         color: #fe0606;
         font-weight: bold;
-        
-    }
-    .css-ffhzg2{
-        background-color: #239bb970;
     }
 
-    
-    </style>
+    .css-ffhzg2 {
+    background-color : #c6f700f7; 
+    }
+</style>
     
     
 """,unsafe_allow_html=True)
