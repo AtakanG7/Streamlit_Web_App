@@ -41,13 +41,13 @@ st.markdown("""
     
     .css-1avcm0n
     {
-       background-color: rgba(190, 37, 37, 0.068);
+       background-color: rgba(19, 4, 4, 0.068);
     }
     
     
     .header0
     {
-        border-radius: 0px;
+    border-radius: 0px;
     background-color:#007bff00;
     width: 400px;
     background-size: 100px;
@@ -72,7 +72,7 @@ st.markdown("""
     margin-top: -100px;
     color: rgb(255, 255, 255);
     border: 20px;
-    transition: background 0.1s, color 1s;
+    transition: background 0.1s, color 0.1s;
     border-radius: 10px;
     }
     
