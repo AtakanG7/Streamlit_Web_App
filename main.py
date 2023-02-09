@@ -96,6 +96,9 @@ st.markdown("""
     {
         visibility: hidden;
     }
+    .css-cio0dv.egzxvld1{
+        visibility: hidden;
+    }
     
     .css-1n76uvr.e1tzin5v0
     {
