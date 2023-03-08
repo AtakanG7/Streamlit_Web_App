@@ -151,7 +151,7 @@ st.markdown("""
     
 """,unsafe_allow_html=True)
 
-api = SumAPI(username='test', password='5Br5Yhdu4fS87C')
+api = SumAPI(username='test', password='')
 st.write("---")
 st.title("Emotion Detection")
 st.empty()
